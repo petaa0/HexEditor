@@ -7,3 +7,5 @@ IMPORTANT:
 --------------------------------------------------------------------------------------------------------------------------
 To edit a byte put the "Offset" value to the byte address and put the "New Byte" to the new byte you change. Editing visualy (using the *text*) would not save.
 The *text* is used *ONLY* for visualization.
+
+(i kinda forgot the name so its "Hex Viewer" in the app................)
