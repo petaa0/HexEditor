@@ -8,3 +8,7 @@ It has 3 main sections:
 Editor
 ------------------------------------------------------------
 The editor can be used to set bytes, every byte is differed by a space.
+
+Warning
+------------------------------------------------------------
+Not recommended.
